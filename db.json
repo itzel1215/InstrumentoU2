@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "asx",
+      "password": "12",
+      "email": "sqx"
+    },
+    {
+      "id": "hdgh",
+      "password": "asdsad",
+      "email": "asda"
+    },
+    {
+      "id": "sdfd",
+      "password": "sdfsd",
+      "email": "sdfs"
+    },
+    {
+      "id": "ale",
+      "password": "1243",
+      "email": "ale@gmail.com"
+    },
+    {
+      "id": "ale",
+      "password": "28",
+      "email": "sad"
+    },
+    {
+      "id": "ale",
+      "password": "123",
+      "email": "aleee"
+    }
+  ]
+}
